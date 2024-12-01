@@ -1,8 +1,4 @@
-Here's the updated **README.md** with red circle emojis at the start of each feature and the original feature emojis moved to the end or in between:
-
----
-
-# 🚀 **Tradenex Version 2** – The Most Advanced Bypass Extension! 🎉  
+# 🚀 **Tradenex Neoshield Neocolab Version 2** – The Most Advanced Bypass Extension! 🎉  
 
 Welcome to **Tradenex V2**, the ultimate browser extension for bypassing screen restrictions and enabling smooth, untraceable recording functionality. Designed by professionals for unparalleled performance, **Tradenex V2** is the **only extension that works seamlessly and remains undetectable**.
 
